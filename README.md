@@ -28,6 +28,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+#### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
 > 🔸 **Specialized in**: Enterprise-grade applications using **.NET Core**, **MVC**, and relational databases (SQL Server & PostgreSQL).
 
 ### 📊 GitHub Stats
@@ -43,10 +48,8 @@
 
 ### 🚀 Featured Projects
 
-<!-- Replace `your-repo-name` with actual repos you want to highlight (e.g., personal-portfolio, todo-app) -->
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=asalam345&repo=personal-portfolio&theme=radical)](https://github.com/asalam345/personal-portfolio)
-<!-- Add more pins like this: -->
-<!-- [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=asalam345&repo=your-repo-name&theme=radical)](https://github.com/asalam345/your-repo-name) -->
+🛠️ *Coming soon — building some exciting projects!*  
+⭐ Stay tuned or check back later.
 
 ---
 
