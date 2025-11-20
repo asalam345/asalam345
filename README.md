@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Salam 👨‍💻</h1>
 <h3 align="center">A passionate developer building meaningful things with code</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=550&height=50&lines=Full-Stack+Developer;Blazor+%26+React;.NET+Core+%7C+AWS;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=550&height=50&lines=Full-Stack+Developer;Blazor+%26+Next.js;.NET+Core+%7C+AWS;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
-🌱 I’m currently learning **Blazor, React, Node.js & cloud technologies**  
+🌱 I’m currently learning **Blazor, Python, Next.js, Node.js & cloud technologies**  
 📫 Reach me at **asalam345@gmail.com** *(or update with your preferred contact)*  
 💬 Ask me about **JavaScript, web development, or open-source contributions**  
 ⚡ Fun fact: *I love turning coffee into code ☕ → 💻*
