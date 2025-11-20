@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdul Salam</h1>
+<h1 align="center">Hi 👋, I'm Abdul Salam 👨‍💻</h1>
 <h3 align="center">A passionate developer building meaningful things with code</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=550&height=50&lines=Full-Stack+Developer;Blazor+%26+React;.NET+Core+%7C+AWS;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</div>
 
-🌱 I’m currently learning **React, Node.js & cloud technologies**  
+🌱 I’m currently learning **Blazor, React, Node.js & cloud technologies**  
 📫 Reach me at **asalam345@gmail.com** *(or update with your preferred contact)*  
 💬 Ask me about **JavaScript, web development, or open-source contributions**  
 ⚡ Fun fact: *I love turning coffee into code ☕ → 💻*
@@ -10,28 +13,27 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Backend & Databases
+#### 💻 Backend & .NET Ecosystem
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-#### 🌐 Frontend & Full-Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-
-#### 🐍 Scripting & DevOps
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 #### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 > 🔸 **Specialized in**: Enterprise-grade applications using **.NET Core**, **MVC**, and relational databases (SQL Server & PostgreSQL).
 
